@@ -14,7 +14,23 @@ const page = () => {
       <div>page</div>
       <div>page</div>
       <div>page</div>
+      <div>page</div>
+      <div>page</div>
+      <div>page</div>
+      <div>page</div>
+      <div>page</div>
+      <div>page</div>
+      <div>page</div>
+      <div>page</div>
+      <div>page</div>
+      <div>page</div>
+      <div>page</div>
+      <div>page</div>
+      <div>page</div>
+      <div>page</div>
+      <div>page</div>
+      <div>page</div>
     </>
   )
-
+}
 export default page
