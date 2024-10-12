@@ -15,11 +15,6 @@ const page = () => {
       <div>page</div>
       <div>page</div>
       <div>page</div>
-      <div>page</div>
-      <div>page</div>
-      <div>page</div>
-      <div>page</div>
-      <div>page</div>
     </>
   )
 }
